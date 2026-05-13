@@ -17,15 +17,12 @@
     display: flex;
     gap: 40px;
     margin: 0 332px 0 0;  
-    padding: 24px 0; 
 }
-header {
-    border-bottom: 1px solid #E7E9FC;
-}
+
 header .container {
     display: flex;
     align-items: center;
-
+    border-bottom: 1px solid #E7E9FC;
 }
     
 
@@ -35,6 +32,7 @@ header .container {
     font-weight: 500;
     letter-spacing: 0.02em;
     line-height: 1.5;
+    padding: 24px 0; 
 }
 .nav .nav-link:hover,
 .nav .nav-link:focus {

@@ -16,3 +16,6 @@ margin-bottom: 8px;
     display: flex;
     gap: 24px;
 }
+.features-list li {
+    flex-basis: 264px;
+}
