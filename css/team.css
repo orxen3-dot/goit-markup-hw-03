@@ -1,0 +1,44 @@
+.team-section {
+    background-color: #F4F4FD;
+    padding: 120px 0;
+}
+.section-title {
+    text-align: center;
+    color: #2E2F42;
+    font-size: 36px;
+    line-height: 1.11;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+}
+.team-list h3,
+.team-list p {
+    text-align: center;
+}
+.team-list > li {
+    background-color: #ffffff;
+    border-radius: 0 0 4px 4px;
+}
+.team-list h3 {
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    line-height: 1.2;
+}
+.team-list p {
+   color:#434455;
+   letter-spacing: 0.02em;
+    line-height: 1.5;
+}
+.team-list {
+    display: flex;
+    gap: 24px;
+    margin: 0;
+}
+.card-content {
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 16px;
+}

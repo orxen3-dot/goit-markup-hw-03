@@ -1,0 +1,62 @@
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #2E2F42;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1.33;
+    margin-right: 76px;
+}
+.logo .web {
+    color: #4D5AE5;
+}
+
+.nav {
+    display: flex;
+    gap: 40px;
+    margin: 0 332px 0 0;  
+    padding: 24px 0; 
+}
+header {
+    border-bottom: 1px solid #E7E9FC;
+}
+header .container {
+    display: flex;
+    align-items: center;
+
+}
+    
+
+.nav .nav-link {
+    color: #2E2F42;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+}
+.nav .nav-link:hover,
+.nav .nav-link:focus {
+    color: #404BBF;
+}
+
+.adress {
+    display: flex;
+    gap: 40px;
+    margin: 0;
+}
+
+.adress a {
+    color: currentColor;
+    text-decoration: none;
+    font-style: normal;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+    
+    
+}
+.adress a:hover,
+.adress a:focus {
+    color: #404BBF
+}

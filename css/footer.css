@@ -1,0 +1,21 @@
+.footer {
+    background-color: #2E2F42;
+    padding: 100px 0;
+}
+
+.footer-text {
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+    width: 264px;   
+}
+
+
+.footer .logo {
+    display: block;
+font-weight: bold;
+line-height: 1.33;
+letter-spacing: 0.03em;
+color: #F4F4FD;
+margin-bottom: 16px;
+}

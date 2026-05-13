@@ -1,0 +1,41 @@
+.section-title {
+    text-align: center;
+    color: #2E2F42;
+    font-size: 36px;
+    line-height: 1.11;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+}
+.portfolio-list h3 {
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    color: #2E2F42;
+}
+.portfolio-list p {
+   color:#434455;
+   letter-spacing: 0.02em;
+   line-height: 1.5;
+}
+.portfolio {
+    padding: 120px 0;
+}
+.portfolio-list {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+
+.portfolio-list .card-content {
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 32px 16px;
+    border-bottom: 1px solid #E7E9FC;
+    border-left: 1px solid #E7E9FC;
+    border-right: 1px solid #E7E9FC;
+}
