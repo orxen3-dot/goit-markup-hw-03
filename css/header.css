@@ -1,4 +1,4 @@
-.header {
+header {
     border-bottom: 1px solid #E7E9FC;
 }
 .logo {
@@ -23,7 +23,7 @@
 }
 
 
-header .container {
+.header .container {
     display: flex;
     align-items: center;
 }
